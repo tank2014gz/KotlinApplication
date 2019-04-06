@@ -30,5 +30,9 @@ class DemoOperator {
             println(a)
         }
 
+        fun listOperator1() {
+
+        }
+
     }
 }
